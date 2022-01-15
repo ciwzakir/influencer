@@ -204,7 +204,7 @@ footer .social-media-icon .fab{
 }
 
 @media (max-width:668px){
-    .nav-sec, .gallary-collecton .logos{
+    .nav-sec, .gallary-collecton, .logos{
         grid-template-columns: repeat(1, 1fr);
     }
    }
